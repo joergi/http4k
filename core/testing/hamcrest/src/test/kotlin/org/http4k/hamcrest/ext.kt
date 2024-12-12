@@ -1,4 +1,4 @@
-package org.http4k.hamkrest
+package org.http4k.hamcrest
 
 import org.hamcrest.Matcher
 import org.hamcrest.MatcherAssert.assertThat
